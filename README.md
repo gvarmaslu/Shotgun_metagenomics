@@ -1,5 +1,5 @@
 
-# Metagenomics_analysis
+# Metagenomic analysis
 
 USAGE:
 
